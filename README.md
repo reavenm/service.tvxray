@@ -16,3 +16,6 @@ Read Trivia, facts, goofs and more from your favorite movies and shows *(just mo
 
 #### [Mockup v1]
 ![Screenshot](http://i93.photobucket.com/albums/l66/reavenm/MU-tvxray_zpspa6wz4a6.jpg)
+
+
+* Not functional yet * Not functional yet * Not functional yet * Not functional yet * Not functional yet *
