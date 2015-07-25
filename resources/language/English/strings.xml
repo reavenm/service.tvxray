@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- General settings -->
+  <string id="32000">General</string>
+  <string id="32001">Enable Facts</string>
+  <string id="32002">Display facts spoilers</string>
+  <string id="32003">Enable Goofs</string>
+  <string id="32004">Display goofs spoilers</string>
+
+  <!-- Troubleshooting -->
+  <string id="32010">Enable debugging</string>
+
+
+</strings>

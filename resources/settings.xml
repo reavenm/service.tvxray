@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <!-- General Settings-->
+  <category label="32000">
+
+      <setting id="enable_facts" type="bool" label="32001" default="false" />
+        <setting id="facts_spoilers" type="bool" label="32002" default="false" subsetting="true" visible="eq(-1,true)"  />
+      <setting id="enable_goofs" type="bool" label="32003" default="false" />
+        <setting id="goofs_spoilers" type="bool" label="32004" default="" subsetting="true" visible="eq(-1,true)"  />
+      <setting type="sep"/>
+      <setting id="debug" type="bool" label="32010" default="false" />
+
+  </category>
+
+</settings>
